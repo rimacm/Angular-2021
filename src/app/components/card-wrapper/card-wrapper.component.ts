@@ -11,28 +11,28 @@ export class CardWrapperComponent implements OnInit {
     {
       imagen: "assets/images/roma.jpg",
       categoria: "Vuelo",
-      titulo: "Viajá a París",
+      titulo: "Viajá a Roma",
       ofertaInfalible: false,
       precio: 654299,
     },
     {
       imagen: "assets/images/miami.jpg",
       categoria: "Hotel",
-      titulo: "Visita Medellín",
+      titulo: "Visita Miami",
       ofertaInfalible: true,
       precio: 6542,
     },
     {
       imagen: "assets/images/constitucion.jpg",
       categoria: "Hotel",
-      titulo: "Conoce la playa",
+      titulo: "Conoce Constitución",
       ofertaInfalible: false,
       precio: 3682,
     },
     {
       imagen: "assets/images/obelisco.jpg",
       categoria: "Paquete",
-      titulo: "Visita Colombia",
+      titulo: "Visita el Ovelisco",
       ofertaInfalible: false,
       precio: 823985,
     }
