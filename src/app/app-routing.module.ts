@@ -7,12 +7,14 @@ import { ContactoComponent } from './pages/contacto/contacto.component';
 import { NosotrosComponent } from './pages/nosotros/nosotros.component';
 
 
+
 //Acá declaramos las rutas
 // con '' declaramos la pagina de inicio
 const routes: Routes = [
   { path: '', component: InicioComponent},
   { path: 'contacto', component: ContactoComponent},
   { path: 'nosotros', component: NosotrosComponent}
+
 ];
 
 @NgModule({
